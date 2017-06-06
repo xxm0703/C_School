@@ -1,0 +1,3 @@
+C:/Users/martin/CLionProjects/str_to_int/cmake-build-debug/CMakeFiles/str_to_int.dir
+C:/Users/martin/CLionProjects/str_to_int/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/martin/CLionProjects/str_to_int/cmake-build-debug/CMakeFiles/rebuild_cache.dir

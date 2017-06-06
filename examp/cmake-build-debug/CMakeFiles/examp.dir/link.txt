@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\examp.dir/objects.a
+C:\PROGRA~1\mingw32\bin\ar.exe cr CMakeFiles\examp.dir/objects.a @CMakeFiles\examp.dir\objects1.rsp
+C:\PROGRA~1\mingw32\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\examp.dir/objects.a -Wl,--no-whole-archive  -o examp.exe -Wl,--out-implib,libexamp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\examp.dir\linklibs.rsp
